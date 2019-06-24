@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <Button
+        android:id="@+id/btn_does_aktif"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="right|bottom"
+        android:layout_marginStart="8dp"
+        android:visibility="invisible"
+        android:layout_marginEnd="8dp"
+        android:background="@drawable/ic_arrow_back_black_24dp"
+        android:backgroundTint="@color/doneBackColor"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout12"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="15dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="15dp"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0">
+
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="0dp"
+            android:layout_marginRight="0dp"
+            app:cardCornerRadius="20dp"
+            app:cardElevation="6dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginRight="40dp"
+                android:orientation="vertical"
+                android:padding="10dp">
+
+                <TextView
+                    android:id="@+id/doesDoneTitle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="10dp"
+                    android:enabled="false"
+                    android:paddingRight="5dp"
+                    android:hint="Fatura"
+                    android:textColor="#000"
+                    android:textColorHint="#747474"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:id="@+id/doesDoneDescription"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="2dp"
+                    android:ems="10"
+                    android:enabled="false"
+                    android:inputType="textMultiLine|text"
+                    android:paddingRight="5dp"
+                    android:hint="Elektrik Fatırasını öde"
+                    android:textColor="#000"
+                    android:textColorHint="#747474" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="right|top"
+                android:layout_marginTop="5dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/doesDoneDate"
+                    android:layout_gravity="right|top"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_weight="1"
+                    android:hint="Time"/>
+
+
+
+                <Button
+                    android:id="@+id/btn_does_done_delete"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:visibility="invisible"
+                    android:layout_gravity="right|bottom"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/cancel_button" />
+
+
+
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+
+
+
+    </LinearLayout>
+
+
+</android.support.constraint.ConstraintLayout>

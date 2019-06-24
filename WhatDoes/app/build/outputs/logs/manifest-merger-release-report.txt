@@ -1,0 +1,609 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:2:1-52:12
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\android-image-cropper-2.7.0.aar\e31d031e05d3f96bceb4e5603eb9abe9\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\62bfe23c2c713f2e80f7bcd830f69eb6\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\a73268d19edad1919f72c5d3d5394396\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\02b075f42c6809f6827bae563b508134\AndroidManifest.xml:2:1-11:12
+MERGED from [com.firebaseui:firebase-ui-database:4.3.2] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-4.3.2.aar\00e7e16f090935159116e3d4b5adb2d9\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-auth:16.2.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.2.1.aar\98b33398920e192c02564fa5dda6f55d\AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-database:16.1.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-database-16.1.0.aar\ee39cf87ef7796aa249b53b82b7cce6f\AndroidManifest.xml:15:1-36:12
+MERGED from [com.google.firebase:firebase-storage:15.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-storage-15.0.0.aar\72ec7822fd4d471ab84f88959668bf2f\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\ae0e201abb9e78cd6ce38e7d688fe49d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.1.aar\229013e85db7202fa3c25f2e8db4d662\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-core:16.0.8] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.8.aar\67cfed4019f1bfd45f97d6bddb358473\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-analytics:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.4.0.aar\246d79a625fe213e4948d9b5819a2b07\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\102f6934cd19c1662cfe9b6fb3c91d0e\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\fadc28db613ccba7a6318cab542a0a8c\AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\0b7957647855fe9a73b25f2e21119fd6\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\a1b737384acf48302022876bbc0db8c6\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.1.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-common-16.1.0.aar\4b52f2f0f02ca6b4d222b331426ccc1e\AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\9af95d1267c9fb53eeb7f3662cceca35\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-storage-common:15.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-15.0.0.aar\5cee0cd563585c742461c278560f09e9\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\216fdf5c8cbe0e77cd3ca2203e1caa7d\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-16.4.0.aar\b1e1d45497dc8b8f417e9c3bbdd20bff\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\29898ee9dbbe1ec2f822f77869604e96\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\dcc66d8ef32c739b46c4b83ae1e32514\AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.4.0.aar\bff9681bfeef5097ec1021a158cab6cc\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\b8faa5e780da9c0aff8da9215fa3b505\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\dffa31660a8c627ccebcf4697375c2a5\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\bc02a67a5032a381d821f22f708ee8e4\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.2.0.aar\cd2dd0fd555e1553386983f4ac18929c\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\39cded4f3f40e0637e52e3a88fde4ac3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\97d425f290bdfc8b001ac57abd16eec5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:gridlayout-v7:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-28.0.0.aar\1c84a0c1869f58fd3a66a058089c80f6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\24f1f08d6bae0097bc7bcc3307851810\AndroidManifest.xml:17:1-22:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\b7130e196ea4365a174396cb647b7969\AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\glide-4.9.0.aar\854cde08626f78d855d9d59d8089df76\AndroidManifest.xml:2:1-12:12
+MERGED from [com.mikhaellopez:circularimageview:3.2.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\circularimageview-3.2.0.aar\6bb1f2c8c7de7e6a6c6b070898b3d15b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\7c385d59057dd19fc969913ef0ce86c9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\284b9d373b9399a04972fda671a929d2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\0b16dc10dfc3fd618ef7f162890ef09a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\4ea5f76d301100de9b90cbc59ccf681f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\c1c2088c036dc312b040c6d6a1489544\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\9e67d3d00769b1c64357361796e858d5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\593f06114f0ea61055e72c345b74e8db\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\77e86c66b878ce78db3980ec1931e4d9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\62c209cee091ecc588a604959c176cb6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\a2254bb60426edc92dd9527774105fbd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\6a550ad4ce7e1cfe1bac59309a70ea68\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\c6bc8e01a07e9a627b263b0e5614464d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\211f1e3fc5b5cc8b2b21487913f56aeb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\8563e5161ec5d2d2546f0b7cbfb22d0d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\706f3c79511b4ced0c08fbf56b88c3f2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d36eb84cb5d85b908c9745237f55d671\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\560ffbad962e9fbaecf42775efe82c11\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\e7833e515db02af1401efef40ff65695\AndroidManifest.xml:17:1-22:12
+MERGED from [com.firebaseui:firebase-ui-common:4.3.2] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-ui-common-4.3.2.aar\5caf0c1cbde7d3b64408b5e33930f270\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.9.0.aar\3f056f2455c537925aa083a8719388ff\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\95c4bdb7b8c2d410f980e96923c290f8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\22d2087aafe48c218f8b7fbec8e81e2e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\7e8ef94a62a46edba99d23b3b321d480\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\e77a803a6e90ae3814a74d06974694fd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\6e28aa4a3618a64bd048ca4e8ac011eb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\36ff6842ddef2177fba0309c44055dc2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\3d92f386dfe37b18bb22f7e3fd31f96c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\638e854628f27a9103633bc8ec6b7ff2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\7d8d4bc13d4183e0bc84c19214e51a55\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\dfb7efc6af6e5c8e823aeeb49da2f365\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-16.0.1.aar\60e83d6c8952258044a7d01d539962af\AndroidManifest.xml:2:1-7:12
+INJECTED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:2:1-52:12
+	package
+		ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:2:1-52:12
+		INJECTED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:2:1-52:12
+		INJECTED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:5:22-63
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:7:5-73
+	android:name
+		ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:7:22-70
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:8:22-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:9:5-67
+MERGED from [com.firebaseui:firebase-ui-database:4.3.2] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-4.3.2.aar\00e7e16f090935159116e3d4b5adb2d9\AndroidManifest.xml:11:5-67
+MERGED from [com.firebaseui:firebase-ui-database:4.3.2] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-4.3.2.aar\00e7e16f090935159116e3d4b5adb2d9\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-database:16.1.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-database-16.1.0.aar\ee39cf87ef7796aa249b53b82b7cce6f\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:16.1.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-database-16.1.0.aar\ee39cf87ef7796aa249b53b82b7cce6f\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\102f6934cd19c1662cfe9b6fb3c91d0e\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\102f6934cd19c1662cfe9b6fb3c91d0e\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\fadc28db613ccba7a6318cab542a0a8c\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\fadc28db613ccba7a6318cab542a0a8c\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\216fdf5c8cbe0e77cd3ca2203e1caa7d\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\216fdf5c8cbe0e77cd3ca2203e1caa7d\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\29898ee9dbbe1ec2f822f77869604e96\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\29898ee9dbbe1ec2f822f77869604e96\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\dcc66d8ef32c739b46c4b83ae1e32514\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\dcc66d8ef32c739b46c4b83ae1e32514\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:10:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:11:22-78
+application
+ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:13:5-50:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\62bfe23c2c713f2e80f7bcd830f69eb6\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\62bfe23c2c713f2e80f7bcd830f69eb6\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\02b075f42c6809f6827bae563b508134\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\02b075f42c6809f6827bae563b508134\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:16.2.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.2.1.aar\98b33398920e192c02564fa5dda6f55d\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:16.2.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.2.1.aar\98b33398920e192c02564fa5dda6f55d\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-database:16.1.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-database-16.1.0.aar\ee39cf87ef7796aa249b53b82b7cce6f\AndroidManifest.xml:28:5-34:19
+MERGED from [com.google.firebase:firebase-database:16.1.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-database-16.1.0.aar\ee39cf87ef7796aa249b53b82b7cce6f\AndroidManifest.xml:28:5-34:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.1.aar\229013e85db7202fa3c25f2e8db4d662\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.1.aar\229013e85db7202fa3c25f2e8db4d662\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-core:16.0.8] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.8.aar\67cfed4019f1bfd45f97d6bddb358473\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.8] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.8.aar\67cfed4019f1bfd45f97d6bddb358473\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.4.0.aar\246d79a625fe213e4948d9b5819a2b07\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.4.0.aar\246d79a625fe213e4948d9b5819a2b07\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\102f6934cd19c1662cfe9b6fb3c91d0e\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\102f6934cd19c1662cfe9b6fb3c91d0e\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\fadc28db613ccba7a6318cab542a0a8c\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\fadc28db613ccba7a6318cab542a0a8c\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\0b7957647855fe9a73b25f2e21119fd6\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\0b7957647855fe9a73b25f2e21119fd6\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\a1b737384acf48302022876bbc0db8c6\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\a1b737384acf48302022876bbc0db8c6\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.1.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-common-16.1.0.aar\4b52f2f0f02ca6b4d222b331426ccc1e\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:16.1.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-common-16.1.0.aar\4b52f2f0f02ca6b4d222b331426ccc1e\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\9af95d1267c9fb53eeb7f3662cceca35\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\9af95d1267c9fb53eeb7f3662cceca35\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\216fdf5c8cbe0e77cd3ca2203e1caa7d\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\216fdf5c8cbe0e77cd3ca2203e1caa7d\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-16.4.0.aar\b1e1d45497dc8b8f417e9c3bbdd20bff\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-16.4.0.aar\b1e1d45497dc8b8f417e9c3bbdd20bff\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\29898ee9dbbe1ec2f822f77869604e96\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\29898ee9dbbe1ec2f822f77869604e96\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\dcc66d8ef32c739b46c4b83ae1e32514\AndroidManifest.xml:27:5-28:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\dcc66d8ef32c739b46c4b83ae1e32514\AndroidManifest.xml:27:5-28:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.4.0.aar\bff9681bfeef5097ec1021a158cab6cc\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.4.0.aar\bff9681bfeef5097ec1021a158cab6cc\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\b8faa5e780da9c0aff8da9215fa3b505\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\b8faa5e780da9c0aff8da9215fa3b505\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\dffa31660a8c627ccebcf4697375c2a5\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\dffa31660a8c627ccebcf4697375c2a5\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\bc02a67a5032a381d821f22f708ee8e4\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\bc02a67a5032a381d821f22f708ee8e4\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.2.0.aar\cd2dd0fd555e1553386983f4ac18929c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.2.0.aar\cd2dd0fd555e1553386983f4ac18929c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\b7130e196ea4365a174396cb647b7969\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\b7130e196ea4365a174396cb647b7969\AndroidManifest.xml:7:5-12:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\glide-4.9.0.aar\854cde08626f78d855d9d59d8089df76\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\glide-4.9.0.aar\854cde08626f78d855d9d59d8089df76\AndroidManifest.xml:10:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d36eb84cb5d85b908c9745237f55d671\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d36eb84cb5d85b908c9745237f55d671\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\560ffbad962e9fbaecf42775efe82c11\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\560ffbad962e9fbaecf42775efe82c11\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.9.0.aar\3f056f2455c537925aa083a8719388ff\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.9.0.aar\3f056f2455c537925aa083a8719388ff\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d36eb84cb5d85b908c9745237f55d671\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:16:9-41
+	android:roundIcon
+		ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:17:9-54
+	android:icon
+		ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:19:9-40
+activity#com.example.dodo.FindUserActivity
+ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:20:9-21:69
+	android:parentActivityName
+		ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:21:13-57
+	android:name
+		ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:20:19-51
+activity#com.example.dodo.ToplulukActivity
+ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:22:9-54
+	android:name
+		ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:22:19-51
+activity#com.example.dodo.AyarlarActivity
+ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:23:9-25:58
+	android:parentActivityName
+		ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:25:13-55
+	android:name
+		ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:24:13-44
+activity#com.example.dodo.RehberActivity
+ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:26:9-27:57
+	android:parentActivityName
+		ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:27:13-55
+	android:name
+		ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:26:19-49
+activity#com.example.dodo.KisilerActivity
+ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:28:9-30:58
+	android:parentActivityName
+		ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:30:13-55
+	android:name
+		ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:29:13-44
+activity#com.example.dodo.MesajActivity
+ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:31:9-51
+	android:name
+		ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:31:19-48
+activity#com.example.dodo.TakvimActivity
+ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:32:9-34:58
+	android:parentActivityName
+		ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:34:13-55
+	android:name
+		ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:33:13-43
+activity#com.example.dodo.DoesActivity
+ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:35:9-36:44
+	android:name
+		ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:36:13-41
+activity#com.example.dodo.RegisterActivity
+ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:37:9-54
+	android:name
+		ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:37:19-51
+activity#com.example.dodo.MainActivity
+ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:38:9-50
+	android:name
+		ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:38:19-47
+activity#com.example.dodo.LoginActivity
+ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:39:9-45:20
+	android:name
+		ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:39:19-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:40:13-44:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:41:17-69
+	android:name
+		ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:41:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:43:17-77
+	android:name
+		ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:43:27-74
+activity#com.theartofdev.edmodo.cropper.CropImageActivity
+ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:46:9-48:59
+	android:theme
+		ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:48:13-56
+	android:name
+		ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:47:13-76
+receiver#com.example.dodo.AlertReceiver
+ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:49:9-51
+	android:name
+		ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml:49:19-48
+uses-sdk
+INJECTED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\android-image-cropper-2.7.0.aar\e31d031e05d3f96bceb4e5603eb9abe9\AndroidManifest.xml:7:5-9:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\android-image-cropper-2.7.0.aar\e31d031e05d3f96bceb4e5603eb9abe9\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\62bfe23c2c713f2e80f7bcd830f69eb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\62bfe23c2c713f2e80f7bcd830f69eb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\a73268d19edad1919f72c5d3d5394396\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\a73268d19edad1919f72c5d3d5394396\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\02b075f42c6809f6827bae563b508134\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\02b075f42c6809f6827bae563b508134\AndroidManifest.xml:5:5-7:41
+MERGED from [com.firebaseui:firebase-ui-database:4.3.2] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-4.3.2.aar\00e7e16f090935159116e3d4b5adb2d9\AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-database:4.3.2] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-4.3.2.aar\00e7e16f090935159116e3d4b5adb2d9\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-auth:16.2.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.2.1.aar\98b33398920e192c02564fa5dda6f55d\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:16.2.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.2.1.aar\98b33398920e192c02564fa5dda6f55d\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-database:16.1.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-database-16.1.0.aar\ee39cf87ef7796aa249b53b82b7cce6f\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:16.1.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-database-16.1.0.aar\ee39cf87ef7796aa249b53b82b7cce6f\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-storage:15.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-storage-15.0.0.aar\72ec7822fd4d471ab84f88959668bf2f\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage:15.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-storage-15.0.0.aar\72ec7822fd4d471ab84f88959668bf2f\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\ae0e201abb9e78cd6ce38e7d688fe49d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\ae0e201abb9e78cd6ce38e7d688fe49d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.1.aar\229013e85db7202fa3c25f2e8db4d662\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.1.aar\229013e85db7202fa3c25f2e8db4d662\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.8] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.8.aar\67cfed4019f1bfd45f97d6bddb358473\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.8] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.8.aar\67cfed4019f1bfd45f97d6bddb358473\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.4.0.aar\246d79a625fe213e4948d9b5819a2b07\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.4.0.aar\246d79a625fe213e4948d9b5819a2b07\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\102f6934cd19c1662cfe9b6fb3c91d0e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\102f6934cd19c1662cfe9b6fb3c91d0e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\fadc28db613ccba7a6318cab542a0a8c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\fadc28db613ccba7a6318cab542a0a8c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\0b7957647855fe9a73b25f2e21119fd6\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\0b7957647855fe9a73b25f2e21119fd6\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\a1b737384acf48302022876bbc0db8c6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\a1b737384acf48302022876bbc0db8c6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.1.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-common-16.1.0.aar\4b52f2f0f02ca6b4d222b331426ccc1e\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:16.1.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-common-16.1.0.aar\4b52f2f0f02ca6b4d222b331426ccc1e\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\9af95d1267c9fb53eeb7f3662cceca35\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\9af95d1267c9fb53eeb7f3662cceca35\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-storage-common:15.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-15.0.0.aar\5cee0cd563585c742461c278560f09e9\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:15.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-15.0.0.aar\5cee0cd563585c742461c278560f09e9\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\216fdf5c8cbe0e77cd3ca2203e1caa7d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\216fdf5c8cbe0e77cd3ca2203e1caa7d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-16.4.0.aar\b1e1d45497dc8b8f417e9c3bbdd20bff\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-16.4.0.aar\b1e1d45497dc8b8f417e9c3bbdd20bff\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\29898ee9dbbe1ec2f822f77869604e96\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\29898ee9dbbe1ec2f822f77869604e96\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\dcc66d8ef32c739b46c4b83ae1e32514\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\dcc66d8ef32c739b46c4b83ae1e32514\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.4.0.aar\bff9681bfeef5097ec1021a158cab6cc\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.4.0.aar\bff9681bfeef5097ec1021a158cab6cc\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\b8faa5e780da9c0aff8da9215fa3b505\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\b8faa5e780da9c0aff8da9215fa3b505\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\dffa31660a8c627ccebcf4697375c2a5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\dffa31660a8c627ccebcf4697375c2a5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\bc02a67a5032a381d821f22f708ee8e4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\bc02a67a5032a381d821f22f708ee8e4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.2.0.aar\cd2dd0fd555e1553386983f4ac18929c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.2.0.aar\cd2dd0fd555e1553386983f4ac18929c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\39cded4f3f40e0637e52e3a88fde4ac3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\39cded4f3f40e0637e52e3a88fde4ac3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\97d425f290bdfc8b001ac57abd16eec5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\97d425f290bdfc8b001ac57abd16eec5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-28.0.0.aar\1c84a0c1869f58fd3a66a058089c80f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-28.0.0.aar\1c84a0c1869f58fd3a66a058089c80f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\24f1f08d6bae0097bc7bcc3307851810\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\24f1f08d6bae0097bc7bcc3307851810\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\b7130e196ea4365a174396cb647b7969\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\b7130e196ea4365a174396cb647b7969\AndroidManifest.xml:5:5-44
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\glide-4.9.0.aar\854cde08626f78d855d9d59d8089df76\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\glide-4.9.0.aar\854cde08626f78d855d9d59d8089df76\AndroidManifest.xml:6:5-8:41
+MERGED from [com.mikhaellopez:circularimageview:3.2.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\circularimageview-3.2.0.aar\6bb1f2c8c7de7e6a6c6b070898b3d15b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikhaellopez:circularimageview:3.2.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\circularimageview-3.2.0.aar\6bb1f2c8c7de7e6a6c6b070898b3d15b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\7c385d59057dd19fc969913ef0ce86c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\7c385d59057dd19fc969913ef0ce86c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\284b9d373b9399a04972fda671a929d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\284b9d373b9399a04972fda671a929d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\0b16dc10dfc3fd618ef7f162890ef09a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\0b16dc10dfc3fd618ef7f162890ef09a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\4ea5f76d301100de9b90cbc59ccf681f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\4ea5f76d301100de9b90cbc59ccf681f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\c1c2088c036dc312b040c6d6a1489544\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\c1c2088c036dc312b040c6d6a1489544\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\9e67d3d00769b1c64357361796e858d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\9e67d3d00769b1c64357361796e858d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\593f06114f0ea61055e72c345b74e8db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\593f06114f0ea61055e72c345b74e8db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\77e86c66b878ce78db3980ec1931e4d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\77e86c66b878ce78db3980ec1931e4d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\62c209cee091ecc588a604959c176cb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\62c209cee091ecc588a604959c176cb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\a2254bb60426edc92dd9527774105fbd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\a2254bb60426edc92dd9527774105fbd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\6a550ad4ce7e1cfe1bac59309a70ea68\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\6a550ad4ce7e1cfe1bac59309a70ea68\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\c6bc8e01a07e9a627b263b0e5614464d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\c6bc8e01a07e9a627b263b0e5614464d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\211f1e3fc5b5cc8b2b21487913f56aeb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\211f1e3fc5b5cc8b2b21487913f56aeb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\8563e5161ec5d2d2546f0b7cbfb22d0d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\8563e5161ec5d2d2546f0b7cbfb22d0d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\706f3c79511b4ced0c08fbf56b88c3f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\706f3c79511b4ced0c08fbf56b88c3f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d36eb84cb5d85b908c9745237f55d671\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d36eb84cb5d85b908c9745237f55d671\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\560ffbad962e9fbaecf42775efe82c11\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\560ffbad962e9fbaecf42775efe82c11\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\e7833e515db02af1401efef40ff65695\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\e7833e515db02af1401efef40ff65695\AndroidManifest.xml:20:5-44
+MERGED from [com.firebaseui:firebase-ui-common:4.3.2] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-ui-common-4.3.2.aar\5caf0c1cbde7d3b64408b5e33930f270\AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-common:4.3.2] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-ui-common-4.3.2.aar\5caf0c1cbde7d3b64408b5e33930f270\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.9.0.aar\3f056f2455c537925aa083a8719388ff\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.9.0.aar\3f056f2455c537925aa083a8719388ff\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\95c4bdb7b8c2d410f980e96923c290f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\95c4bdb7b8c2d410f980e96923c290f8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\22d2087aafe48c218f8b7fbec8e81e2e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\22d2087aafe48c218f8b7fbec8e81e2e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\7e8ef94a62a46edba99d23b3b321d480\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\7e8ef94a62a46edba99d23b3b321d480\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\e77a803a6e90ae3814a74d06974694fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\e77a803a6e90ae3814a74d06974694fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\6e28aa4a3618a64bd048ca4e8ac011eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\6e28aa4a3618a64bd048ca4e8ac011eb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\36ff6842ddef2177fba0309c44055dc2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\36ff6842ddef2177fba0309c44055dc2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\3d92f386dfe37b18bb22f7e3fd31f96c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\3d92f386dfe37b18bb22f7e3fd31f96c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\638e854628f27a9103633bc8ec6b7ff2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\638e854628f27a9103633bc8ec6b7ff2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\7d8d4bc13d4183e0bc84c19214e51a55\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\7d8d4bc13d4183e0bc84c19214e51a55\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\dfb7efc6af6e5c8e823aeeb49da2f365\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\dfb7efc6af6e5c8e823aeeb49da2f365\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-16.0.1.aar\60e83d6c8952258044a7d01d539962af\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-16.0.1.aar\60e83d6c8952258044a7d01d539962af\AndroidManifest.xml:5:5-44
+INJECTED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pusula\Desktop\whatDoes\app\src\main\AndroidManifest.xml
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.2.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.2.1.aar\98b33398920e192c02564fa5dda6f55d\AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.2.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.2.1.aar\98b33398920e192c02564fa5dda6f55d\AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.2.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.2.1.aar\98b33398920e192c02564fa5dda6f55d\AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.2.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.2.1.aar\98b33398920e192c02564fa5dda6f55d\AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.2.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.2.1.aar\98b33398920e192c02564fa5dda6f55d\AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.2.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.2.1.aar\98b33398920e192c02564fa5dda6f55d\AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:16.2.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.2.1.aar\98b33398920e192c02564fa5dda6f55d\AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.2.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.2.1.aar\98b33398920e192c02564fa5dda6f55d\AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:16.2.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.2.1.aar\98b33398920e192c02564fa5dda6f55d\AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-database:16.1.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-database-16.1.0.aar\ee39cf87ef7796aa249b53b82b7cce6f\AndroidManifest.xml:29:9-33:19
+MERGED from [com.google.firebase:firebase-database:16.1.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-database-16.1.0.aar\ee39cf87ef7796aa249b53b82b7cce6f\AndroidManifest.xml:29:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\102f6934cd19c1662cfe9b6fb3c91d0e\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\102f6934cd19c1662cfe9b6fb3c91d0e\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\fadc28db613ccba7a6318cab542a0a8c\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\fadc28db613ccba7a6318cab542a0a8c\AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.2.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.2.1.aar\98b33398920e192c02564fa5dda6f55d\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.2.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.2.1.aar\98b33398920e192c02564fa5dda6f55d\AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.2.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.2.1.aar\98b33398920e192c02564fa5dda6f55d\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.2.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.2.1.aar\98b33398920e192c02564fa5dda6f55d\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.2.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.2.1.aar\98b33398920e192c02564fa5dda6f55d\AndroidManifest.xml:37:17-109
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:16.1.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-database-16.1.0.aar\ee39cf87ef7796aa249b53b82b7cce6f\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\102f6934cd19c1662cfe9b6fb3c91d0e\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\102f6934cd19c1662cfe9b6fb3c91d0e\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\fadc28db613ccba7a6318cab542a0a8c\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\fadc28db613ccba7a6318cab542a0a8c\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\216fdf5c8cbe0e77cd3ca2203e1caa7d\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\216fdf5c8cbe0e77cd3ca2203e1caa7d\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\29898ee9dbbe1ec2f822f77869604e96\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\29898ee9dbbe1ec2f822f77869604e96\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\dcc66d8ef32c739b46c4b83ae1e32514\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\dcc66d8ef32c739b46c4b83ae1e32514\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-database:16.1.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-database-16.1.0.aar\ee39cf87ef7796aa249b53b82b7cce6f\AndroidManifest.xml:25:22-76
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:16.1.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-database-16.1.0.aar\ee39cf87ef7796aa249b53b82b7cce6f\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:16.1.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-database-16.1.0.aar\ee39cf87ef7796aa249b53b82b7cce6f\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:16.1.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-database-16.1.0.aar\ee39cf87ef7796aa249b53b82b7cce6f\AndroidManifest.xml:31:17-109
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\102f6934cd19c1662cfe9b6fb3c91d0e\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\fadc28db613ccba7a6318cab542a0a8c\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\fadc28db613ccba7a6318cab542a0a8c\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\216fdf5c8cbe0e77cd3ca2203e1caa7d\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\216fdf5c8cbe0e77cd3ca2203e1caa7d\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\29898ee9dbbe1ec2f822f77869604e96\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\29898ee9dbbe1ec2f822f77869604e96\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\dcc66d8ef32c739b46c4b83ae1e32514\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\dcc66d8ef32c739b46c4b83ae1e32514\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\102f6934cd19c1662cfe9b6fb3c91d0e\AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\102f6934cd19c1662cfe9b6fb3c91d0e\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\102f6934cd19c1662cfe9b6fb3c91d0e\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\102f6934cd19c1662cfe9b6fb3c91d0e\AndroidManifest.xml:31:17-139
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\fadc28db613ccba7a6318cab542a0a8c\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\fadc28db613ccba7a6318cab542a0a8c\AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\fadc28db613ccba7a6318cab542a0a8c\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\fadc28db613ccba7a6318cab542a0a8c\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\fadc28db613ccba7a6318cab542a0a8c\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\fadc28db613ccba7a6318cab542a0a8c\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\fadc28db613ccba7a6318cab542a0a8c\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\fadc28db613ccba7a6318cab542a0a8c\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\fadc28db613ccba7a6318cab542a0a8c\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\fadc28db613ccba7a6318cab542a0a8c\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\fadc28db613ccba7a6318cab542a0a8c\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\fadc28db613ccba7a6318cab542a0a8c\AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\fadc28db613ccba7a6318cab542a0a8c\AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\fadc28db613ccba7a6318cab542a0a8c\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\fadc28db613ccba7a6318cab542a0a8c\AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\fadc28db613ccba7a6318cab542a0a8c\AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\fadc28db613ccba7a6318cab542a0a8c\AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\fadc28db613ccba7a6318cab542a0a8c\AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\fadc28db613ccba7a6318cab542a0a8c\AndroidManifest.xml:54:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\a1b737384acf48302022876bbc0db8c6\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\a1b737384acf48302022876bbc0db8c6\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\a1b737384acf48302022876bbc0db8c6\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\a1b737384acf48302022876bbc0db8c6\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.1.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-common-16.1.0.aar\4b52f2f0f02ca6b4d222b331426ccc1e\AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.1.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-common-16.1.0.aar\4b52f2f0f02ca6b4d222b331426ccc1e\AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.1.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-common-16.1.0.aar\4b52f2f0f02ca6b4d222b331426ccc1e\AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.1.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-common-16.1.0.aar\4b52f2f0f02ca6b4d222b331426ccc1e\AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.1.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\firebase-common-16.1.0.aar\4b52f2f0f02ca6b4d222b331426ccc1e\AndroidManifest.xml:13:13-77
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\216fdf5c8cbe0e77cd3ca2203e1caa7d\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\29898ee9dbbe1ec2f822f77869604e96\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\29898ee9dbbe1ec2f822f77869604e96\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\216fdf5c8cbe0e77cd3ca2203e1caa7d\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\216fdf5c8cbe0e77cd3ca2203e1caa7d\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\216fdf5c8cbe0e77cd3ca2203e1caa7d\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\216fdf5c8cbe0e77cd3ca2203e1caa7d\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\216fdf5c8cbe0e77cd3ca2203e1caa7d\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\216fdf5c8cbe0e77cd3ca2203e1caa7d\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\29898ee9dbbe1ec2f822f77869604e96\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\29898ee9dbbe1ec2f822f77869604e96\AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\216fdf5c8cbe0e77cd3ca2203e1caa7d\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\216fdf5c8cbe0e77cd3ca2203e1caa7d\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\216fdf5c8cbe0e77cd3ca2203e1caa7d\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\216fdf5c8cbe0e77cd3ca2203e1caa7d\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\216fdf5c8cbe0e77cd3ca2203e1caa7d\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\216fdf5c8cbe0e77cd3ca2203e1caa7d\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\216fdf5c8cbe0e77cd3ca2203e1caa7d\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\216fdf5c8cbe0e77cd3ca2203e1caa7d\AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\216fdf5c8cbe0e77cd3ca2203e1caa7d\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\216fdf5c8cbe0e77cd3ca2203e1caa7d\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\216fdf5c8cbe0e77cd3ca2203e1caa7d\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\216fdf5c8cbe0e77cd3ca2203e1caa7d\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\216fdf5c8cbe0e77cd3ca2203e1caa7d\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\216fdf5c8cbe0e77cd3ca2203e1caa7d\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\216fdf5c8cbe0e77cd3ca2203e1caa7d\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\216fdf5c8cbe0e77cd3ca2203e1caa7d\AndroidManifest.xml:49:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.2.0.aar\cd2dd0fd555e1553386983f4ac18929c\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.2.0.aar\cd2dd0fd555e1553386983f4ac18929c\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.2.0.aar\cd2dd0fd555e1553386983f4ac18929c\AndroidManifest.xml:24:13-58
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\b7130e196ea4365a174396cb647b7969\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\b7130e196ea4365a174396cb647b7969\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\b7130e196ea4365a174396cb647b7969\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Pusula\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\b7130e196ea4365a174396cb647b7969\AndroidManifest.xml:9:13-64
